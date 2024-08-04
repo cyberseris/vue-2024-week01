@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+### 畫面顯示
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/699a912f-5826-4e05-83a8-7cd4d31a3021">
+
